@@ -29,6 +29,6 @@
 - 🌱 I’m currently learning Node and Express JS.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailto:silasojugo@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1y6ZRjFV9GGcCvMLr0-4wmKHZOWnBp8Y8/view?usp=sharing) and contact me by emailing mailto:silasojugo@gmail.com.
 
 ---
