@@ -11,7 +11,7 @@
 
 🔧 I'm always eager to learn and explore new technologies, aiming to leverage them to create impactful solutions that make a difference. Feel free to explore my repositories and connect with me!
 
-**TECHNOLOGIES**:
+# TECHNOLOGIES
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23333)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23333)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23333)
